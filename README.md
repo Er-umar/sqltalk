@@ -55,7 +55,7 @@ SQLTalk leverages advanced natural language processing to interpret user queries
      ```
    - Open `.env.local` and replace `your-gemini-api-key` with your actual Gemini API key: AIzaSyCM39cAMi09kBWmNdSguhuA5YH1_S9NvwM
      ```
-     NEXT_PUBLIC_GEMINI_API_KEY=your-actual-gemini-api-key-here
+     NEXT_PUBLIC_GEMINI_API_KEY= AIzaSyCM39cAMi09kBWmNdSguhuA5YH1_S9NvwM
      ```
    
    Note: Make sure to keep your API key confidential and never commit it to version control.
